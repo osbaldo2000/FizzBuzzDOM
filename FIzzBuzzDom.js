@@ -21,7 +21,7 @@ function FB() {
         }
 
         else {
-            document.querySelector("#resultado").innerHTML = "";
+            document.querySelector("p").innerHTML = "";
         }
 
         for (let i = 1; i <= number; i++) {
